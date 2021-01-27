@@ -2,20 +2,10 @@
 
 Sou graduanda de Engenharia de Software, que ama resolver problemas com tecnologia.
 
-- 🔭 Atualmente trabalho na [!Bemol Digital](https://bemoldigital.com.br/)
-
-
-<!--
-**devezza/devezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho na [Bemol Digital](https://bemoldigital.com.br/)
+- 🌱 Amo aprender sobre RPA, Engenharia de Dados, Ciência de Dados, BI e várias outras coisas.
+- 👯 Busco colaborar com resoluções para o dia a dia das pessoas aplicando minhas áreas de interesse.
+- 🤔 Estou aberta para receber sugestões e críticas sobre minhas resoluções, visando ampliar meus conhecimentos.
+- 💬 Você pode me perguntar sobre: Python, BPMN, RPA, Dashboards, Análise de Dados e Introdução a Banco de Dados. 
+- 📫 Me encontre: [Linkedin](https://www.linkedin.com/in/devezza/)
+- 😄 Curiosidades: Sou vegetariana, mãe de 8 gatos, bissexual e apaixonada pelas pessoas.
