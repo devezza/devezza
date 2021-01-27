@@ -2,7 +2,7 @@
 
 Sou graduanda de Engenharia de Software, que ama resolver problemas com tecnologia.
 
-- 🔭 Atualmente trabalho na [!Bemol Digital (https://bemoldigital.com.br/)]
+- 🔭 Atualmente trabalho na [!Bemol Digital](https://bemoldigital.com.br/)
 
 
 <!--
