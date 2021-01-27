@@ -8,4 +8,4 @@ Sou graduanda de Engenharia de Software, que ama resolver problemas com tecnolog
 - 🤔 Estou aberta para receber sugestões e críticas sobre minhas resoluções.
 - 💬 Você pode me perguntar sobre: Python, BPMN, RPA, Dashboards, Análise de Dados e Introdução a Banco de Dados que tentarei ajudar
 - 📫 Me encontre no [Linkedin](https://www.linkedin.com/in/devezza/)
-- 😄 Curiosidades: Sou vegetariana, mãe de 8 gatos, bissexual e apaixonada pelas pessoas.
+- 😄 Curiosidades: Sou vegetariana, mãe de 8 gatos, bissexual e meu sobrenome na verdade tem apenas um z, mas virou uma marca pessoal escrever devezza.
